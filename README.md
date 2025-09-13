@@ -19,14 +19,17 @@ A mini HR analytics project that simulates payroll and attendance data, loads it
 ---
 
 ## 📂 Project Structure
+```text
 PayrollProject/
-├── generate_data.py # Creates sample CSVs
-├── setup_db.py # Loads CSVs into SQLite
-├── analysis.py # Runs SQL queries + charts
-├── company.db # Database (generated locally)
-├── employee_data.csv # Generated data
-├── attendance_data.csv # Generated data
-└── charts/ # Auto-generated PNGs
+├── generate_data.py      # Creates sample CSVs
+├── setup_db.py           # Loads CSVs into SQLite
+├── analysis.py           # Runs SQL queries + charts
+├── company.db            # Database (generated locally)
+├── employee_data.csv     # Generated data
+├── attendance_data.csv   # Generated data
+└── charts/               # Auto-generated PNGs
+```
+
 
 ---
 
