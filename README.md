@@ -24,7 +24,7 @@ PayrollProject/
 ├── generate_data.py      # Creates sample CSVs
 ├── setup_db.py           # Loads CSVs into SQLite
 ├── analysis.py           # Runs SQL queries + charts
-├── company.db            # Database (generated locally)
+├── company.db            # Database 
 ├── employee_data.csv     # Generated data
 ├── attendance_data.csv   # Generated data
 └── charts/               # Auto-generated PNGs
