@@ -19,3 +19,28 @@ A mini HR analytics project that simulates payroll and attendance data, loads it
 ---
 
 ## 📂 Project Structure
+PayrollProject/
+├── generate_data.py # Creates sample CSVs
+├── setup_db.py # Loads CSVs into SQLite
+├── analysis.py # Runs SQL queries + charts
+├── company.db # Database (generated locally)
+├── employee_data.csv # Generated data
+├── attendance_data.csv # Generated data
+└── charts/ # Auto-generated PNGs
+
+---
+
+## 🖥️ Example Outputs
+**Top 5 Most Absent Employees**  
+![absent chart](charts/Top_5_Most_Absent_Employees.png)
+
+**Payroll Cost by Department**  
+![payroll chart](charts/Payroll_Cost_Estimation_by_Department.png)
+
+---
+
+## ⚙️ How to Run
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/BasementFox069/Workforce-Performance-Insights.git
+   cd Workforce-Performance-Insights
