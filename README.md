@@ -5,7 +5,7 @@ A mini HR analytics project that simulates payroll and attendance data, loads it
 ---
 
 ## 🚀 Features
-- **Data generation**: Fake HR datasets (employees, attendance logs).
+- **Data generation**:HR datasets (employees, attendance logs).
 - **Database setup**: Load CSVs into SQLite (`company.db`).
 - **Analysis queries** (SQL + Pandas):
   - Attendance summaries
