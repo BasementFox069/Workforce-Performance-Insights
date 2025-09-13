@@ -1,6 +1,6 @@
 # Workforce Performance Insights (Python + SQL)
 
-A mini HR analytics project that simulates payroll and attendance data, loads it into a relational database (SQLite), and extracts **business insights** using SQL + Python. Visualizations are created with Matplotlib to make the findings recruiter- and manager-friendly.
+A mini HR analytics project that simulates payroll and attendance data, loads it into a relational database (SQLite), and extracts **business insights** using SQL + Python.
 
 ---
 
