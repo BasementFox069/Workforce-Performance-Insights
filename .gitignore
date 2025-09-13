@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# ========================
+# Project-specific ignores
+# ========================
+employee_data.csv
+attendance_data.csv
+company.db
+charts/
+outputs/
