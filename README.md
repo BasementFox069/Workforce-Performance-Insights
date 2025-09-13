@@ -33,12 +33,28 @@ PayrollProject/
 
 ---
 
-## 🖥️ Example Outputs
-**Top 5 Most Absent Employees**  
-![absent chart](charts/Top_5_Most_Absent_Employees.png)
+## 🖥️ Outputs
 
-**Payroll Cost by Department**  
-![payroll chart](charts/Payroll_Cost_Estimation_by_Department.png)
+**Average Overtime by Department**  
+<p align="center">
+  <img src="charts/Average_Overtime_by_Department.png" alt="Average Overtime by Department" width="500">
+</p>
+
+**Top 5 Most Absent Employees**  
+<p align="center">
+  <img src="charts/Top_5_Most_Absent_Employees.png" alt="Top 5 Most Absent Employees" width="500">
+</p>
+
+**Top 5 Attendance Records**  
+<p align="center">
+  <img src="charts/Top_5_Attendance_Records.png" alt="Top 5 Attendance Records" width="500">
+</p>
+
+**Payroll Cost Estimation by Department**  
+<p align="center">
+  <img src="charts/Payroll_Cost_Estimation_by_Department.png" alt="Payroll Cost Estimation by Department" width="500">
+</p>
+
 
 ---
 
